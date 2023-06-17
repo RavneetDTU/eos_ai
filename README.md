@@ -1,6 +1,6 @@
 # EOSAI - Generative AI Assistance Bot
 
-![EOSAI Banner](https://drive.google.com/file/d/1NQ7Mf6evioB6XI82NJXuLKeljcWV3t5x/view?usp=sharing)
+![EOSAI Banner](https://drive.google.com/uc?id=1CGedSOIVXkE3zITWbgo-OW8SEdIS_E0P)
 
 ## Introduction
 
